@@ -8,7 +8,6 @@ const LinkedIN = () => {
             viewBox="0 0 24 24"
             data-supported-dps="24x24"
             fill='#0a66c2'
-            // className="mercado-match"
             width="30"
             height="30"
             focusable="false"

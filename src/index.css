@@ -1,2 +1,21 @@
 @import "tailwindcss";
 
+:root {
+	--bg: #000;
+	--fg: #fff;
+}
+
+html, body, #root {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	background: var(--bg);
+	color: var(--fg);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
