@@ -105,7 +105,7 @@ export const ProjectData =  [
       ],
       GitLink: "https://github.com/MOHAMMED-IQRAMUL/React-TodoList-App",
       LiveDemoLink: "https://iq-task.netlify.app",
-      Image: "https://private-user-images.githubusercontent.com/153977920/317659907-7e3a50d6-b000-4428-ba64-58ee4af857ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDI3NDMsIm5iZiI6MTc0NzE0MjQ0MywicGF0aCI6Ii8xNTM5Nzc5MjAvMzE3NjU5OTA3LTdlM2E1MGQ2LWIwMDAtNDQyOC1iYTY0LTU4ZWU0YWY4NTdmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxM1QxMzIwNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjc1ODdmYzY4YmFhZWYyY2U1MDY3OWJhNTM2NzEwYmMyNWJkZWE3Mjc3ZjQzZWU4NzFkYTk3NDhmYTc0MDY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.j_k1N35gGxEcvksqoFkjRb825UGmqWyOff6Lxfw4yTQ",
+      Image: "src\\assets\\Iq-Task.png",
       ImageAlt: "React TodoList App",
     },
     {
@@ -142,7 +142,7 @@ export const ProjectData =  [
       ],
       GitLink: "https://github.com/MOHAMMED-IQRAMUL/NotesApp",
       LiveDemoLink: "https://iq-notes.netlify.app",
-      Image: "https://private-user-images.githubusercontent.com/153977920/405248496-424a4b90-da79-4bb9-b0e9-a14c1c476c4f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxNDI3NDYsIm5iZiI6MTc0NzE0MjQ0NiwicGF0aCI6Ii8xNTM5Nzc5MjAvNDA1MjQ4NDk2LTQyNGE0YjkwLWRhNzktNGJiOS1iMGU5LWExNGMxYzQ3NmM0Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxM1QxMzIwNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZTBmMTMzYzgwN2FhYWViNWJmMzg2OWNmNjU1ZTU3ZjZmZGM3MDMxNzE4ZTM3ZWRlNTQ3NTcxZGJjOWI5Nzc0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3PDvbGZyjmJYWMLuSVpBSqP-zF6Vq8_JDC6SY9TZoJg",
+      Image: "src\\assets\\notes.png",
       ImageAlt: "NotesApp",
     },
     {

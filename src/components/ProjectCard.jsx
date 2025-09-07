@@ -23,7 +23,7 @@ const ProjectCard = ({ project }) => {
             <motion.img
                 src={project.Image}
                 alt={project.ImageAlt}
-                className="w-full md:w-1/3 m-2 max-h-[250px] object-cover rounded-lg  "
+                className="w-full md:w-1/3 m-2 max-h-[270px] object-fit rounded-lg  "
                 variants={itemVariants}
             />
 

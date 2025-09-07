@@ -6,16 +6,16 @@ import {
 import { SiCodeforces, SiLeetcode, SiGeeksforgeeks, SiCodio, SiHeadlessui } from 'react-icons/si';
 
 const links = [
-  { icon: <FaGithub />, url: 'https://github.com/your-username', color: 'text-white', name: 'GitHub' },
-  { icon: <FaLinkedin />, url: 'https://linkedin.com/in/your-username', color: 'text-blue-500', name: 'LinkedIn' },
-  { icon: <SiLeetcode />, url: 'https://leetcode.com/your-username', color: 'text-orange-400', name: 'LeetCode' },
-  { icon: <FaEnvelope />, url: 'mailto:yourmail@gmail.com', color: 'text-red-500', name: 'Gmail' },
-  { icon: <FaDiscord />, url: 'https://discordapp.com/users/your-id', color: 'text-indigo-400', name: 'Discord' },
-  { icon: <SiCodeforces />, url: 'https://codeforces.com/profile/your-username', color: 'text-blue-300', name: 'Codeforces' },
-  { icon: <SiGeeksforgeeks />, url: 'https://auth.geeksforgeeks.org/user/your-username', color: 'text-green-500', name: 'GFG' },
-  { icon: <FaHackerrank />, url: 'https://www.hackerrank.com/your-username', color: 'text-green-600', name: 'HackerRank' },
-  { icon: <SiCodio />, url: 'https://codolio.com/your-username', color: 'text-pink-400', name: 'Codolio' },
-  { icon: <SiHeadlessui />, url: 'https://headstarter.com/your-username', color: 'text-purple-400', name: 'Headstarter' },
+  { icon: <FaGithub />, url: 'https://github.com/mohammed-iqramul', color: 'text-white', name: 'GitHub' },
+  { icon: <FaLinkedin />, url: 'https://linkedin.com/in/mohammed-iqramul', color: 'text-blue-500', name: 'LinkedIn' },
+  { icon: <SiLeetcode />, url: 'https://leetcode.com/mohammed-iqramul', color: 'text-orange-400', name: 'LeetCode' },
+  { icon: <FaEnvelope />, url: 'mailto:mohdiqramul2468@gmail.com', color: 'text-red-500', name: 'Gmail' },
+  { icon: <FaDiscord />, url: 'https://discord.com/users/1218169520032710708', color: 'text-indigo-400', name: 'Discord' },
+  { icon: <SiCodeforces />, url: 'https://codeforces.com/profile/mohammed-iqramul', color: 'text-blue-300', name: 'Codeforces' },
+  { icon: <SiGeeksforgeeks />, url: 'https://www.geeksforgeeks.org/user/rapp7o1o', color: 'text-green-500', name: 'GFG' },
+  { icon: <FaHackerrank />, url: 'https://www.hackerrank.com/mohammed_iqramul', color: 'text-green-600', name: 'HackerRank' },
+  { icon: <SiCodio />, url: 'https://codolio.com/profile/mohammed-iqramul', color: 'text-pink-400', name: 'Codolio' },
+  { icon: <SiHeadlessui />, url: 'https://app.headstarter.co/profile/mohammed-iqramul', color: 'text-purple-400', name: 'Headstarter' },
 ];
 
 export const  ContactSection = () => {
