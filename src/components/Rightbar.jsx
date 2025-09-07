@@ -29,11 +29,10 @@ const itemVariants = {
 };
 
 
-// Rotating roles used in About section
 const roles = [
     'Full stack web development',
     'Competitive programmer',
-    'WEb 3 exploring',
+    'WEB 3 exploring',
 ];
 
 const Rightbar = () => {
@@ -108,10 +107,10 @@ const Rightbar = () => {
                     <div className="mt-5 flex flex-wrap items-center gap-3">
                         <motion.div whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.98 }} onClick={() => scrollToId("projects")}  className={`cursor-pointer px-4 py-2 rounded-lg border bg-black/60 hover:bg-black/80 transition ${getTheme(theme)}`}>View Projects</motion.div>
                         <motion.div whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.98 }} onClick={() => scrollToId("contact")}  className={`cursor-pointer px-4 py-2 rounded-lg border bg-black/60 hover:bg-black/80 transition ${getTheme(theme)}`}>Contact Me</motion.div>
-                        <a href="https://github.com/MOHAMMED-IQRAMUL" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-white/20 hover:bg-white/10 transition">
+                        <a href="https://github.com/MOHAMMED-IQRAMUL" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-white/20 hover:bg-white/10 transition">
                             <FaGithub /> GitHub
                         </a>
-                        <a href="https://linkedin.com/in/mohammed-iqramul" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-white/20 hover:bg-white/10 transition">
+                        <a href="https://linkedin.com/in/mohammed-iqramul" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-white/20 hover:bg-white/10 transition">
                             <FaLinkedin /> LinkedIn
                         </a>
                     </div>
