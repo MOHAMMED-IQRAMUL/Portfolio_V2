@@ -9,7 +9,6 @@ const links = [
   { icon: <FaGithub />, url: 'https://github.com/mohammed-iqramul', name: 'GitHub', gradient: 'from-[#6e45e2] to-[#88d3ce]' },
   { icon: <FaLinkedin />, url: 'https://linkedin.com/in/mohammed-iqramul', name: 'LinkedIn', gradient: 'from-[#0e76a8] to-[#00a0dc]' },
   { icon: <SiLeetcode />, url: 'https://leetcode.com/mohammed-iqramul', name: 'LeetCode', gradient: 'from-[#ffa116] to-[#f2c94c]' },
-  { icon: <FaEnvelope />, url: 'mailto:mohdiqramul2468@gmail.com', name: 'Gmail', gradient: 'from-[#ea4335] to-[#fb8c00]' },
   { icon: <FaDiscord />, url: 'https://discord.com/users/1218169520032710708', name: 'Discord', gradient: 'from-[#5865F2] to-[#7289DA]' },
   { icon: <SiCodeforces />, url: 'https://codeforces.com/profile/mohammed-iqramul', name: 'Codeforces', gradient: 'from-[#1f8acb] to-[#6aa0f5]' },
   { icon: <SiGeeksforgeeks />, url: 'https://www.geeksforgeeks.org/user/rapp7o1o', name: 'GFG', gradient: 'from-[#00a651] to-[#2ecc71]' },
